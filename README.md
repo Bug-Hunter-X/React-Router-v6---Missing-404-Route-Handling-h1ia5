@@ -1,0 +1,1 @@
+This example demonstrates a common issue in React Router v6:  the absence of a route to handle 404 errors (not found).  Without a catch-all route, if the user navigates to a non-existent path, the application might render nothing or exhibit unexpected behavior. The solution shows how to correctly implement a 404 route.
